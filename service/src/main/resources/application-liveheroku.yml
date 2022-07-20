@@ -1,0 +1,8 @@
+# =================================
+# = Spring
+# =================================
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://ec2-54-87-179-4.compute-1.amazonaws.com:5432/dddhrd2l6kaqgh
+    username: doyamxabkzwoun
